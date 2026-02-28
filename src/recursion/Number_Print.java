@@ -1,6 +1,6 @@
 package recursion;
 
-public class number_Print {
+public class Number_Print {
 
     static void print_Num(int n){
         if(n == 5) {                        //base case
