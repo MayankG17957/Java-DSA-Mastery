@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be66d3-fb3f-45ee-91ad-01323eed2dbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion/DigitProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/ReverseNumber01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DigitProduct">
+  <component name="RunManager" selected="Application.ReverseNumber01">
     <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.DigitProduct" />
       <module name="Java-DSA-Mastery" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOneToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.PrintOneToN" />
+    <configuration name="ReverseNumber01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.ReverseNumber01" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseNumber01" />
         <item itemvalue="Application.DigitProduct" />
         <item itemvalue="Application.DigitSum" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.SumOfNto1" />
-        <item itemvalue="Application.PrintOneToN" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +158,7 @@
       <workItem from="1771923670939" duration="1894000" />
       <workItem from="1771999500605" duration="10667000" />
       <workItem from="1772280029412" duration="1382000" />
-      <workItem from="1772387385178" duration="5898000" />
+      <workItem from="1772387385178" duration="7406000" />
     </task>
     <servers />
   </component>
