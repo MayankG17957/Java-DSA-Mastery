@@ -1,6 +1,6 @@
 package recursion;
 
-public class nTo1 {
+public class NTo1 {
 
     static void fun(int n){
         if(n == 0){

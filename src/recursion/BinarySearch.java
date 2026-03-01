@@ -1,8 +1,6 @@
 package recursion;
 
-import com.sun.security.jgss.GSSUtil;
-
-public class binarySearch {
+public class BinarySearch {
 
     static int binary_Search(int[] arr , int target , int s , int e){   // variables these are used in every call
         if(s>e){
