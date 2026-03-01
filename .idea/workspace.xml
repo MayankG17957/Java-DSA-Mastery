@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be66d3-fb3f-45ee-91ad-01323eed2dbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion/DigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/DigitProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/NTo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/NTo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DigitProduct.executor": "Run",
     "Application.DigitSum.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
@@ -65,7 +64,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DigitSum">
+  <component name="RunManager" selected="Application.DigitProduct">
+    <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.DigitProduct" />
+      <module name="Java-DSA-Mastery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.DigitSum" />
       <module name="Java-DSA-Mastery" />
@@ -81,19 +93,6 @@
     </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.Factorial" />
-      <module name="Java-DSA-Mastery" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NTo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.NTo1" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigitProduct" />
         <item itemvalue="Application.DigitSum" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.SumOfNto1" />
         <item itemvalue="Application.PrintOneToN" />
-        <item itemvalue="Application.NTo1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +158,7 @@
       <workItem from="1771923670939" duration="1894000" />
       <workItem from="1771999500605" duration="10667000" />
       <workItem from="1772280029412" duration="1382000" />
-      <workItem from="1772387385178" duration="5248000" />
+      <workItem from="1772387385178" duration="5898000" />
     </task>
     <servers />
   </component>
