@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be66d3-fb3f-45ee-91ad-01323eed2dbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion/ReverseNumber01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/ReverseNumber02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/ReverseNumber01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ReverseNumber01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,8 @@
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.PrintOneToN.executor": "Run",
+    "Application.ReverseNumber01.executor": "Run",
+    "Application.ReverseNumber02.executor": "Run",
     "Application.SumOfNto1.executor": "Run",
     "Application.binarySearch.executor": "Run",
     "Application.nTo1.executor": "Run",
@@ -64,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseNumber01">
+  <component name="RunManager" selected="Application.ReverseNumber02">
     <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.DigitProduct" />
       <module name="Java-DSA-Mastery" />
@@ -117,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.SumOfNto1" />
+    <configuration name="ReverseNumber02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.ReverseNumber02" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseNumber02" />
         <item itemvalue="Application.ReverseNumber01" />
         <item itemvalue="Application.DigitProduct" />
         <item itemvalue="Application.DigitSum" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.SumOfNto1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +161,8 @@
       <workItem from="1771923670939" duration="1894000" />
       <workItem from="1771999500605" duration="10667000" />
       <workItem from="1772280029412" duration="1382000" />
-      <workItem from="1772387385178" duration="7406000" />
+      <workItem from="1772387385178" duration="8162000" />
+      <workItem from="1772474747827" duration="317000" />
     </task>
     <servers />
   </component>
