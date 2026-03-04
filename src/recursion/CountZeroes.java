@@ -2,6 +2,7 @@ package recursion;
 
 public class CountZeroes {
 
+    //how to pass a value to above calls
     private static int helper(int n, int c){
         if(n == 0){
             return c;
@@ -20,3 +21,5 @@ public class CountZeroes {
         System.out.println(count(23400024));
     }
 }
+
+

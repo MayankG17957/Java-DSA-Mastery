@@ -4,8 +4,8 @@ public class ReverseNumber02 {
 
     static int rev2(int n){
         int digits = (int)(Math.log10(n)) + 1;
-        return helper(n , digits);
-    }
+        return helper(n , digits);  //sometimes u need some additional variables in the argument
+    }                               //in this case make another function
 
     private static int helper(int n, int digits){
         if(n%10 == n){
