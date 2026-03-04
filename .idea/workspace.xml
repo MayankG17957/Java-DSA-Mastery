@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be66d3-fb3f-45ee-91ad-01323eed2dbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/CountZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +67,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.DigitProduct" />
+  <component name="RunManager" selected="Application.CountZeroes">
+    <configuration name="CountZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.CountZeroes" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.DigitSum" />
+    <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.DigitProduct" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountZeroes" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ReverseNumber02" />
         <item itemvalue="Application.ReverseNumber01" />
         <item itemvalue="Application.DigitProduct" />
-        <item itemvalue="Application.DigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,7 @@
       <workItem from="1772280029412" duration="1382000" />
       <workItem from="1772387385178" duration="8162000" />
       <workItem from="1772474747827" duration="2139000" />
-      <workItem from="1772561675591" duration="312000" />
+      <workItem from="1772561675591" duration="1076000" />
     </task>
     <servers />
   </component>
