@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be66d3-fb3f-45ee-91ad-01323eed2dbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/PrimeFactor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,41 +35,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CountZeroes.executor": "Run",
-    "Application.DigitProduct.executor": "Run",
-    "Application.DigitSum.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PrintOneToN.executor": "Run",
-    "Application.ReduceToZero.executor": "Run",
-    "Application.ReverseNumber01.executor": "Run",
-    "Application.ReverseNumber02.executor": "Run",
-    "Application.SumOfNto1.executor": "Run",
-    "Application.binarySearch.executor": "Run",
-    "Application.nTo1.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CountZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintOneToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReduceToZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNto1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nTo1.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SortedArray">
+}</component>
+  <component name="RunManager" selected="Application.PrimeFactor">
     <configuration name="CountZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.CountZeroes" />
       <module name="Java-DSA-Mastery" />
@@ -96,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReduceToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.ReduceToZero" />
+    <configuration name="PrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.PrimeFactor" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.ReverseNumber02" />
+    <configuration name="ReduceToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.ReduceToZero" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeFactor" />
         <item itemvalue="Application.SortedArray" />
         <item itemvalue="Application.ReduceToZero" />
         <item itemvalue="Application.CountZeroes" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ReverseNumber02" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +166,8 @@
       <workItem from="1772280029412" duration="1382000" />
       <workItem from="1772387385178" duration="8162000" />
       <workItem from="1772474747827" duration="2139000" />
-      <workItem from="1772561675591" duration="5858000" />
+      <workItem from="1772561675591" duration="6234000" />
+      <workItem from="1772706291401" duration="1336000" />
     </task>
     <servers />
   </component>
