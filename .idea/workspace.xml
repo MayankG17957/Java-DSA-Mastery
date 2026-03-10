@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be66d3-fb3f-45ee-91ad-01323eed2dbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bit_masking/MagicNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,7 @@
     &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
     &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
     &quot;Application.FormNewNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MagicNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
     &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.Power.executor&quot;: &quot;Run&quot;,
@@ -74,7 +74,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MagicNumber">
+  <component name="RunManager" selected="Application.NoOfDigits">
     <configuration name="FormNewNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.FormNewNumber" />
       <module name="Java-DSA-Mastery" />
@@ -90,6 +90,19 @@
     </configuration>
     <configuration name="MagicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bit_masking.MagicNumber" />
+      <module name="Java-DSA-Mastery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bit_masking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bit_masking.NoOfDigits" />
       <module name="Java-DSA-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -127,26 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.PrimeFactor" />
-      <module name="Java-DSA-Mastery" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoOfDigits" />
         <item itemvalue="Application.MagicNumber" />
         <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.FormNewNumber" />
         <item itemvalue="Application.Power" />
-        <item itemvalue="Application.PrimeFactor" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1772706291401" duration="5672000" />
       <workItem from="1772831233397" duration="1073000" />
       <workItem from="1772966399959" duration="439000" />
-      <workItem from="1773074551882" duration="711000" />
+      <workItem from="1773074551882" duration="2677000" />
     </task>
     <servers />
   </component>
